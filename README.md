@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Victor Tavares
+# 🧑🏻‍💻 Victor Tavares
 
 **`Desenvolvedor Front End`**
 
-Me chamo Victor Tavares da Silva, tenho 22 anos e sou natural de Pernambuco,
+Me chamo Victor Tavares
 
 ---
 
