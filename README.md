@@ -1,8 +1,8 @@
-# 🧑🏻‍💻 Victor Tavares
+# 🧑🏻‍💻 Victor
 
 **`Desenvolvedor Front End`**
 
-Me chamo Victor Tavares
+
 
 ---
 
